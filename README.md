@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jun.</h1>
 <h3 align="center">A passionate Frontend developer from Japan.</h3>
 
-- 📫 How to reach me **juntsuno55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
