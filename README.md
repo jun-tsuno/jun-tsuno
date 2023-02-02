@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jun Tsunokawa</h1>
 <h3 align="center">A passionate frontend developer in Vancouver.</h3>
 
-- 👨‍💻 All of my projects are available at [my Portfolio.](https://jun-tsunokawa-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at **[my Portfolio.](https://jun-tsunokawa-portfolio.vercel.app/)**
 
 - 🌱 I’m currently learning **React/Redux/Nextjs**
 
