@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at **[my Portfolio.](https://jun-tsunokawa-portfolio.vercel.app/)**
 
-- 🌱 I’m currently learning **React/Redux/Nextjs**
+- 🌱 I’m currently learning **React/Nextjs/Nodejs**
 
 - 📝 I write articles for my study on [Medium](https://medium.com/@jun55tsuno)
 
