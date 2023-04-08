@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jun Tsunokawa</h1>
-<h3 align="center">A passionate frontend developer in Vancouver</h3>
+<h1 align="center">Hi, I'm Jun Tsunokawa👋</h1>
+<h3 align="center">A Front-End Developer in Vancouver</h3>
+
+
+[![image](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge)](https://jun-tsunokawa-portfolio.vercel.app/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jun-tsunokawa-b22596247)
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jun55tsuno)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+
 
 - 👨‍💻 All of my projects are available at **[my Portfolio.](https://jun-tsunokawa-portfolio.vercel.app/)**
 
