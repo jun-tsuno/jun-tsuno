@@ -13,8 +13,8 @@ My specialities are **JavaScript** and **TypeScript** such as **React**, **NextJ
 <br />
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://jun-tsunokawa-portfolio.vercel.app/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://jun-tsunokawa-portfolio.vercel.app/" target="_blank">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://linkedin.com/in/jun-tsunokawa-b22596247/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://medium.com/@jun55tsuno" target="_blank">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="mailto: jun55tsuno@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <br />
 <br />
