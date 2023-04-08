@@ -6,16 +6,16 @@ I have a passion for learning and improving my coding skills, as well as sharing
 My specialities are **JavaScript** and **TypeScript** such as **React**, **NextJS**.
 
 
-🚀 You can explore my works here.  <a href="https://jun-tsunokawa-portfolio.vercel.app/" target="blank">   <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" alt="protfolio" /></a> 
+🚀 You can explore my works here.  <a href="https://jun-tsunokawa-portfolio.vercel.app/" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" alt="protfolio" /></a> 
   
 ☕️ Feel free to reach me out through the links down below!!
 <br />
 <br />
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://jun-tsunokawa-portfolio.vercel.app/" target="blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://jun-tsunokawa-portfolio.vercel.app/" target="blank">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="jun55tsuno@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://jun-tsunokawa-portfolio.vercel.app/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://jun-tsunokawa-portfolio.vercel.app/" target="_blank">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="mailto: jun55tsuno@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
