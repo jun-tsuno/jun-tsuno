@@ -3,7 +3,7 @@
   
 Thank you for visiting my Github Page! I'm a frond-end developer looking to create modern & user friendly web contents.
 I have a passion for learning and improving my coding skills, as well as sharing knowledge with others.  
-My specialities are **JavaScript** and **TypeScript** such as **React**, **NextJS**.
+My specialities are **JavaScript** and **TypeScript**, including frameworks such as **React**, **NextJS**.
 
 
 🚀 You can explore my works here.  <a href="https://jun-tsunokawa-portfolio.vercel.app/" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" alt="protfolio" /></a> 
