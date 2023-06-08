@@ -25,9 +25,9 @@ My specialities are **JavaScript** and **TypeScript**, including frameworks such
 
 <br><br>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=jun-tsuno&count_private=true&theme=merko&show_icons=true&hide=contribs" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=jun-tsuno&count_private=true&theme=blue-green&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-tsuno&layout=compact&theme=merko&langs_count=5" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-tsuno&layout=compact&theme=dark&langs_count=5" />
 </a></p>
  
