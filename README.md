@@ -1,7 +1,7 @@
 <h1 align="center">Hi,👋 I'm Jun Tsunokawa</h1>
 <h3 align="center">A Full Stack Developer in Vancouver</h3>
   
-Thank you for visiting my Github Page! I'm a frond-end developer looking to create modern & user friendly web contents.
+Thank you for visiting my Github Page! I'm a full stack developer looking to create modern & user friendly web contents.
 I have a passion for learning and improving my coding skills, as well as sharing knowledge with others.  
 My specialities are **JavaScript** and **TypeScript**, including frameworks such as **React**, **NextJS**.
 
