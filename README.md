@@ -20,7 +20,7 @@ My specialities are **JavaScript** and **TypeScript**, including frameworks such
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,graphql,jest,nodejs,express,mysql,mongo,firebase,sass,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,graphql,jest,nodejs,express,postgres,mongo,firebase,sass,tailwind,docker" />
  </a>
 
 <br><br>
