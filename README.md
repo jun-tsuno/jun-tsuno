@@ -28,6 +28,10 @@ My specialities are **JavaScript** and **TypeScript**, including frameworks such
 
     A blog app for sharing your travel experiences.
 
+-  **[Note App](https://github.com/jun-tsuno/mysql_note_app.git)** - **Nextjs, Express, MySQL, Next-Auth, Jest**
+
+   Manipulate database with SQL, authenticate with Google provider. Unit/Integration testing with Jest, RTL.
+
    
 <br />
 <h3 align="left">Connect with me:</h3>
