@@ -1,5 +1,5 @@
-<h1 align="center">Hi,👋 I'm Jun Tsunokawa</h1>
-<h3 align="center">A Front End Developer in Vancouver</h3>
+<h1>Hi,🙌 I'm Jun Tsunokawa</h1>
+<h3>A Front End Developer</h3>
   
 I'm a Front End developer looking to create modern & user friendly web contents.
 I have a passion for learning and improving my coding skills, as well as sharing knowledge with others.  
